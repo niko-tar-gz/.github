@@ -5,8 +5,7 @@
 # hey, i'm niko! 👋
 
 ### independent dev, i like making vr shit!
-
-<br>
+<sup>i'm polish btw</sup>
 
 [![Website](https://img.shields.io/badge/xenon.zone-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://xenon.zone)
 [![Discord](https://img.shields.io/badge/Discord-1e1e2e?style=for-the-badge&logo=discord&logoColor=ffffff)](#)
