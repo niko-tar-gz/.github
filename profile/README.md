@@ -22,7 +22,7 @@
 
 </div>
 
-- [GTClassic](https://git.soweli.uk/GTClassic) - Community-first, self-hostable fork of Gorilla Tag v1.0.8 + accompanying software. <sup>*([old, inactive github though its visible](https://github.com/GTClassic))*</sup>
+- [GTClassic](https://gtclassic.org/) - Community-first, self-hostable fork of Gorilla Tag v1.0.8 + accompanying software. <sup>*([old, inactive github though its visible](https://github.com/GTClassic))*</sup>
 - [Evri Fucking Time](https://evrifuckingtime.com/) - An unofficial aggregator of retailers that utilize Evri
 - [Tsikuni](https://tsikuni.lol) - Tsikuni is the most advanced utility mod for Gorilla Tag.
 - Shizuku <sup>**no link yet!**</sup> - A free utility mod for Gorilla Tag!
