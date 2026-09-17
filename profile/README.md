@@ -25,6 +25,8 @@
 - [GTClassic](https://gtclassic.org/) - Community-first, self-hostable fork of Gorilla Tag v1.0.8 + accompanying software. <sup>*([old, inactive github though its visible](https://github.com/GTClassic))*</sup>
 - [Evri Fucking Time](https://evrifuckingtime.com/) - An unofficial aggregator of retailers that utilize Evri
 - [Tsikuni](https://tsikuni.lol) - Tsikuni is the most advanced utility mod for Gorilla Tag.
+- [Potassium](https://github.com/niko-tar-gz/Potassium) - An optimisation mod for Gorilla Tag.
+- [Argon](https://github.com/niko-tar-gz/Argon) - A simple extensible menu for Gorilla Tag mods.
 - Shizuku <sup>**no link yet!**</sup> - A free utility mod for Gorilla Tag!
 - Taurine <sup>**no link yet!**</sup> - A free mod manager & client for Gorilla Tag! It's like Excalibur, but doesn't suck!
 - avali <sup>**no link yet!**</sup> - a no-bullshit media downloader.
