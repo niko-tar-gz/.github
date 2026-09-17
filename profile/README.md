@@ -7,7 +7,6 @@
 ### independent dev, i like making vr shit!
 <sup>i'm polish btw</sup>
 
----
 </div>
 
 
