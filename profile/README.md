@@ -7,10 +7,6 @@
 ### independent dev, i like making vr shit!
 <sup>i'm polish btw</sup>
 
-[![Website](https://img.shields.io/badge/Website-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://xenon.zone)
-[![Discord](https://img.shields.io/badge/Discord-1e1e2e?style=for-the-badge&logo=discord&logoColor=ffffff)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-1e1e2e?style=for-the-badge&logo=youtube&logoColor=ffffff)](#)
-[![Steam](https://img.shields.io/badge/Steam-1e1e2e?style=for-the-badge&logo=steam&logoColor=ffffff)](#)
 
 </div>
 
