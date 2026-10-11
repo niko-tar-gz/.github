@@ -24,7 +24,7 @@
 - [Argon](https://github.com/niko-tar-gz/Argon) - A simple extensible menu for Gorilla Tag mods.
 - Shizuku <sup>**no link yet!**</sup> - A free utility mod for Gorilla Tag!
 - Taurine <sup>**no link yet!**</sup> - A free mod manager & client for Gorilla Tag! It's like Excalibur, but doesn't suck!
-- avali <sup>**no link yet!**</sup> - a no-bullshit media downloader.
+- [avali](https://github.com/niko-tar-gz/avali) - a no-bullshit media downloader.
 - dog game <sup>**no link yet!**</sup> - A work-in-progress VR game. Imagine Fall Guys if it was GorillaLocomotion slop
 
 <br>
